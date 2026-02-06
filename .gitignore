@@ -214,3 +214,6 @@ frontend/dist/
 # Runtime data
 backend/workspaces/
 backend/data/sessions.json
+backend/data/*.db
+backend/data/*.sqlite3
+frontend/.vite/
